@@ -1,0 +1,31 @@
+{
+  "name": "bet-soccer-odds",
+  "version": "1.0.0",
+  "description": "Framework From bet365-soccer-odds api of https://rapidapi.com/ for bet365",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorratts13/bet365-soccer-odds.git"
+  },
+  "keywords": [
+    "bet365",
+    "bets",
+    "365",
+    "odds",
+    "bets-odds",
+    "bet365-soccer-odds",
+    "soccer-odds"
+  ],
+  "author": "Victor Ratts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victorratts13/bet365-soccer-odds/issues"
+  },
+  "homepage": "https://github.com/victorratts13/bet365-soccer-odds#readme",
+  "dependencies": {
+    "unirest": "^0.6.0"
+  }
+}
